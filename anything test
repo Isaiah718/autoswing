@@ -1,0 +1,5 @@
+local args = {
+    [1] = "swingKatana",
+}
+
+game:GetService("Players")["Xxhack4fun_xX"].ninjaEvent:FireServer(unpack(args))
